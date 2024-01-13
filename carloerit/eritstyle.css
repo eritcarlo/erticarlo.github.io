@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    border: 2px solid black;
+    background-image:url("vc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;	
+    margin: 0;
+    padding: 0;
+}
+
+#form {
+    width: 40%;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url("vc.jpg");
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
